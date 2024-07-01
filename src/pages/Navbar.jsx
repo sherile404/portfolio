@@ -10,7 +10,7 @@ function Navbar() {
         <div>
           <ul className="list-none flex text-white gap-8 font-medium text-lg">
             <li>
-              <a href="#home" className="hover:text-[#00df9a]">Home</a>
+              <a href="#" className="hover:text-[#00df9a]">Home</a>
             </li>
             <li>
               <a href="#about" className="hover:text-[#00df9a]">About</a>
